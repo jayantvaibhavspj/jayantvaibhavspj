@@ -205,6 +205,24 @@ Built an end-to-end ML pipeline on the **PaySim dataset (6.36M rows)** to detect
 
 ---
 
+## 🔥 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jayantvaibhavspj?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg=0d1117)](https://leetcode.com/u/jayantvaibhavspj/)
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🏆 Total Solved | 🔥 Max Streak | 📅 Active Days |
+|--------|----------|--------|----------------|--------------|---------------|
+| 52 | 13 | 2 | **67** | **20 days** | **32 days** |
+
+> 💪 *Solving DSA problems daily in C++ & Java — consistency is the key!*
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-jayantvaibhavspj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jayantvaibhavspj/)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
