@@ -1,29 +1,27 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0221,60:1a0533,100:2d1b69&height=220&section=header&text=JAYANT%20VAIBHAV&fontSize=65&fontColor=c084fc&fontAlignY=35&desc=Data%20Science%20%E2%9A%A1%20ML%20Engineer%20%E2%9A%A1%20Cloud%20Practitioner&descColor=67e8f9&descAlignY=58&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,70:3d0000,100:ff2200&height=230&section=header&text=JAYANT%20VAIBHAV&fontSize=70&fontColor=ff6600&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Cloud%20Practitioner&descColor=ffaa00&descAlignY=58&animation=fadeIn&stroke=ff4400&strokeWidth=3"/>
 
-<!-- Neon Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=C084FC&center=true&vCenter=true&random=false&width=750&lines=🚀+ML+Engineer+%7C+Fraud+Detection+Expert;☁️+AWS+%26+GCP+Cloud+Practitioner;🏆+National+Hackathon+Winner+—+IIT+BHU+2024;🔥+Daily+LeetCode+Grinder+%7C+20+Day+Streak;🎓+B.Tech+AI+%26+ML+%7C+9.0+CGPA+%40+UEM+Jaipur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=700&color=FF6600&center=true&vCenter=true&random=false&width=800&lines=🔥+ML+Engineer+%7C+Fraud+Detection+Expert;⚡+AWS+%26+GCP+Cloud+Practitioner;🏆+National+Hackathon+Winner+—+IIT+BHU+2024;💀+Daily+LeetCode+Grinder+%7C+20+Day+Streak;🎓+B.Tech+AI+%26+ML+%7C+9.0+CGPA+%40+UEM+Jaipur)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-vaibhav-282768249)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayantvaibhavspj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jayantvaibhavspj/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@apnavlogzone)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apnavlogzone)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayantvaibhavspj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jayant-vaibhav-282768249)
+[![GitHub](https://img.shields.io/badge/GitHub-ff6600?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jayantvaibhavspj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF2200?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jayantvaibhavspj/)
+[![YouTube](https://img.shields.io/badge/@apnavlogzone-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@apnavlogzone)
+[![Instagram](https://img.shields.io/badge/@apnavlogzone-ff6600?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apnavlogzone)
+[![Gmail](https://img.shields.io/badge/Email_Me-FF2200?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayantvaibhavspj@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayantvaibhavspj&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/jayantvaibhavspj?style=for-the-badge&color=c084fc&labelColor=1a0533&label=FOLLOWERS)](https://github.com/jayantvaibhavspj)
+![Profile Views](https://komarev.com/ghpvc/?username=jayantvaibhavspj&style=for-the-badge&color=ff2200&label=🔥+PROFILE+VIEWS)
+&nbsp;&nbsp;
+![IEEE](https://img.shields.io/badge/IEEE-Member-ff6600?style=for-the-badge&logo=ieee&logoColor=white)
+&nbsp;&nbsp;
+![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10-FF2200?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -31,114 +29,117 @@
 
 <br/>
 
-<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 〔 **`> whoami`** 〕
+## `> whoami` 🔥
 
 ```python
 class JayantVaibhav:
 
     name       = "Jayant Vaibhav"
     location   = "📍 Jaipur, Rajasthan, India"
-    education  = "🎓 B.Tech CSE (AI & ML) | UEM Jaipur"
-    cgpa       = "⭐ 9.0 / 10.0 | Top 10 Rank"
+    education  = "🎓 B.Tech CSE (AI & ML) — UEM Jaipur"
+    cgpa       = "🔥 9.0 / 10.0  |  Top 10 Rank"
     role       = "💼 SWE Intern @ Infotact Solutions"
 
-    skills = {
-        "AI/ML"  : ["XGBoost", "LightGBM", "SHAP", "SMOTE", "NLP"],
-        "Cloud"  : ["AWS SageMaker", "GCP Vertex AI", "BigQuery"],
-        "Code"   : ["Python", "Java", "C++", "Kotlin", "SQL"],
-        "Tools"  : ["Git", "Docker", "Power BI", "Jupyter"],
+    tech = {
+        "AI / ML" : ["XGBoost","LightGBM","SHAP","SMOTE","NLP"],
+        "Cloud"   : ["AWS SageMaker","GCP Vertex AI","BigQuery"],
+        "Code"    : ["Python","Java","C++","Kotlin","SQL"],
+        "Tools"   : ["Git","Docker","Power BI","Jupyter"],
     }
 
-    achievements = [
-        "🥇 IIT BHU National Hackathon Winner (2024)",
-        "🎙️ Organized Ace Hack 4.0 — 250+ participants",
-        "📡 IEEE Professional Member",
-        "🔥 $2M+ Fraud Prevented via ML Pipeline",
+    wins = [
+        "🥇  IIT BHU National Hackathon Winner (2024)",
+        "🎙️  Ace Hack 4.0 Organizer — 250+ participants",
+        "📡  IEEE Professional Member",
+        "💰  $2M+ Fraud Prevented via ML Pipeline",
     ]
 
-    socials  = "@apnavlogzone"  # YouTube & Instagram
-    motto    = "Build. Break. Learn. Repeat. 🔁"
+    socials = "@apnavlogzone"   # YouTube & Instagram
+    motto   = "🔥 Build. Break. Learn. Repeat."
 ```
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ Featured Project — Fraud Detection at Scale
+## 💰 Featured — Fraud Detection at Scale
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║    💰  FINANCIAL TRANSACTION FRAUD DETECTION SYSTEM  💰                  ║
-║    Accredian Business Case  |  AWS SageMaker  |  XGBoost + SMOTE        ║
-╚══════════════════════════════════════════════════════════════════════════╝
+ ██████╗ ███████╗ ██████╗     ██████╗ ███████╗████████╗███████╗ ██████╗████████╗
+ ██╔══██╗██╔════╝██╔════╝     ██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
+ ██████╔╝█████╗  ██║  ███╗    ██║  ██║█████╗     ██║   █████╗  ██║        ██║
+ ██╔══██╗██╔══╝  ██║   ██║    ██║  ██║██╔══╝     ██║   ██╔══╝  ██║        ██║
+ ██████╔╝███████╗╚██████╔╝    ██████╔╝███████╗   ██║   ███████╗╚██████╗   ██║
+ ╚═════╝ ╚══════╝ ╚═════╝     ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝
+          FINANCIAL TRANSACTION FRAUD DETECTION — ACCREDIAN BUSINESS CASE
 ```
 
 </div>
 
 ```
-Dataset  ──►  6.36M rows × 10 cols  |  0.13% fraud rate (severe imbalance)
-Pipeline ──►  Feature Engineering → SMOTE → XGBoost → Threshold Tuning → PSI Monitoring
-Results  ──►  ROC-AUC: 0.9997  |  PR-AUC: 0.87  |  💸 $2M+ Fraud Prevented
-Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth logic
+ 📦  Dataset   →  6.36 MILLION rows  ×  10 features  |  0.13% fraud rate
+ 🔧  Pipeline  →  Feature Eng  →  SMOTE  →  XGBoost  →  Threshold Tuning  →  PSI Monitor
+ 🎯  Results   →  ROC-AUC: 0.9997  |  PR-AUC: 0.87  |  $2M+ Fraud Stopped
+ ☁️  Deploy    →  AWS SageMaker  |  Auto-block >0.9  |  Step-up auth 0.6–0.9
 ```
 
 <div align="center">
 
-| 📊 Metric | 🔢 Value | 🏅 |
+| 🔢 Metric | 💥 Score | 🏅 |
 |-----------|---------|-----|
-| ROC-AUC Score | **0.9997** | 🥇 Best |
-| PR-AUC Score | **0.87** | 🥇 Best |
-| Dataset Size | **6.36M rows** | 📦 |
-| Features Engineered | **10+** | 🔧 |
-| Fraud Prevented (test) | **$2M+** | 💰 |
-| Class Imbalance Handling | 0.13% → balanced | ⚖️ SMOTE |
+| **ROC-AUC** | **0.9997** | 🥇 |
+| **PR-AUC** | **0.87** | 🥇 |
+| Dataset Rows | **6.36M** | 📦 |
+| Features Built | **10+** | 🔧 |
+| Fraud Prevented | **$2,000,000+** | 💰 |
+
+**Key Signals Found:** `errorBalanceOrig` • `drain-to-zero flag` • `TRANSFER/CASH_OUT` • `unchanged dest balance`
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python-FF2200?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ff6600?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-FF8C00?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF2200?style=flat-square&logo=scikit-learn&logoColor=white)
+![SageMaker](https://img.shields.io/badge/AWS_SageMaker-ff6600?style=flat-square&logo=amazonaws&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF2200?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-FF8C00?style=flat-square)
 
 </div>
-
-**Key Fraud Signals:** `errorBalanceOrig` • `account drain-to-zero` • `TRANSFER/CASH_OUT type` • `destination balance unchanged`
-
-**Stack:** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![SMOTE](https://img.shields.io/badge/SMOTE-orange?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-1d4ed8?style=flat-square)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 LeetCode Grind
+## 🔥 LeetCode Grind — Never Stop
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jayantvaibhavspj?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg=0d1117&color=c084fc)](https://leetcode.com/u/jayantvaibhavspj/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jayantvaibhavspj?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg=0d0000)](https://leetcode.com/u/jayantvaibhavspj/)
 
 <br/>
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | ✅ Total | 🔥 Max Streak | 📅 Active Days | 📤 Yearly Submissions |
-|--------|----------|--------|---------|--------------|---------------|----------------------|
-| **52** | **13** | **2** | **67** | **20 days** | **32 days** | **112** |
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | ✅ Total Solved | 🔥 Max Streak | 📅 Active Days | 📤 Submissions/yr |
+|:-------:|:--------:|:------:|:--------------:|:------------:|:-------------:|:----------------:|
+| **52** | **13** | **2** | **67** | **🔥 20 days** | **32** | **112** |
 
-> *🧠 Daily grind in C++ & Java — one problem at a time, one skill at a time.*
+> *⚡ Grinding DSA every day in C++ & Java — because consistency beats talent.*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Work Experience
+## 💼 Experience
 
 <details>
-<summary><b>🟣 Software Engineering Intern — Infotact Solutions &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
+<summary><b>🔴 Software Engineering Intern — Infotact Solutions &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
 <br/>
 
-- ⚙️ Developed production modules using **Java, SQL, REST APIs**
-- ⚡ Optimized query performance → **30% latency reduction**
-- 🚀 Improved deployment frequency by **20%** via agile sprint contributions
-- 📋 System design reviews and API documentation
+- ⚙️ Production modules in **Java, SQL, REST APIs**
+- ⚡ Query optimization → **30% latency reduction**
+- 🚀 **20% better deployment frequency** via agile sprints
+- 📋 System design reviews & API documentation
 
 </details>
 
@@ -146,19 +147,19 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 <summary><b>🟠 AWS AI-ML Virtual Intern — Amazon Web Services &nbsp;|&nbsp; 2025</b></summary>
 <br/>
 
-- 🤖 Designed & deployed ML pipelines on **AWS SageMaker**
-- 👁️ Applied **Rekognition** for image analytics
-- 💬 Used **Comprehend** for NLP text classification
+- 🤖 ML pipelines on **AWS SageMaker**
+- 👁️ **Rekognition** for image analytics
+- 💬 **Comprehend** for NLP text classification
 - 🎛️ Hyperparameter tuning & endpoint deployment
 
 </details>
 
 <details>
-<summary><b>🟢 Google Android Developer Intern — Google &nbsp;|&nbsp; 2024</b></summary>
+<summary><b>🟡 Google Android Developer Intern — Google &nbsp;|&nbsp; 2024</b></summary>
 <br/>
 
-- 📱 Built Android apps in **Java/Kotlin** with Firebase integration
-- 🎨 UI/UX design patterns & Play Store deployment
+- 📱 Android apps in **Java/Kotlin** + Firebase
+- 🎨 UI/UX + Play Store deployment
 
 </details>
 
@@ -166,8 +167,8 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 <summary><b>🔵 Google Cloud Intern — Google Cloud &nbsp;|&nbsp; 2024</b></summary>
 <br/>
 
-- 📊 **BigQuery** for large-scale data analytics
-- 🔁 **CI/CD pipelines** and **Document AI** automation
+- 📊 **BigQuery** large-scale analytics
+- 🔁 **CI/CD pipelines** + **Document AI** automation
 
 </details>
 
@@ -177,69 +178,65 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 
 <div align="center">
 
-**〔 Languages 〕**
+### ⟨ Languages ⟩
+![Python](https://img.shields.io/badge/Python-FF2200?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff6600?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF2200?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-ff6600?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF2200?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff6600?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### ⟨ ML / AI / Data Science ⟩
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF2200?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ff6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-FF2200?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6600?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF2200?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff6600?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF2200?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff6600?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF2200?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-ff6600?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white)
 
-**〔 ML / AI / Data Science 〕**
+### ⟨ Cloud ⟩
+![AWS](https://img.shields.io/badge/AWS-FF2200?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-ff6600?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-FF2200?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-ff6600?style=for-the-badge&logo=awslambda&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF2200?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Rekognition](https://img.shields.io/badge/Rekognition-ff6600?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Comprehend](https://img.shields.io/badge/Comprehend-FF2200?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-ff6600?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-FF2200?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-ff6600?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23189AB4.svg?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-%239acd32.svg?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234c72b0.svg?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+### ⟨ Web & APIs ⟩
+![HTML5](https://img.shields.io/badge/HTML5-FF2200?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff6600?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF2200?style=for-the-badge)
 
-**〔 Cloud 〕**
+### ⟨ Tools & DevOps ⟩
+![Git](https://img.shields.io/badge/Git-FF2200?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff6600?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF2200?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff6600?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF2200?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-ff6600?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF2200?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-FF8C00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![SageMaker](https://img.shields.io/badge/SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
-![Rekognition](https://img.shields.io/badge/Rekognition-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-**〔 Web & APIs 〕**
-
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge)
-
-**〔 Tools & DevOps 〕**
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**〔 Specialties 〕**
-
-![Fraud Detection](https://img.shields.io/badge/🔍_Fraud_Detection-7c3aed?style=for-the-badge)
-![Anomaly Detection](https://img.shields.io/badge/📡_Anomaly_Detection-6d28d9?style=for-the-badge)
-![NLP](https://img.shields.io/badge/💬_NLP-0ea5e9?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/🔧_Feature_Engineering-0891b2?style=for-the-badge)
-![SHAP Explainability](https://img.shields.io/badge/📊_SHAP_Explainability-1d4ed8?style=for-the-badge)
-![SMOTE](https://img.shields.io/badge/⚖️_SMOTE-15803d?style=for-the-badge)
-![Model Monitoring PSI](https://img.shields.io/badge/📉_Model_Monitoring_(PSI)-b91c1c?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/🧪_A%2FB_Testing-d97706?style=for-the-badge)
+### ⟨ Specialties ⟩
+![Fraud Detection](https://img.shields.io/badge/🔍_Fraud_Detection-CC0000?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/📡_Anomaly_Detection-FF2200?style=for-the-badge)
+![NLP](https://img.shields.io/badge/💬_NLP-ff4400?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/🔧_Feature_Engineering-ff6600?style=for-the-badge)
+![SHAP Explainability](https://img.shields.io/badge/📊_SHAP_Explainability-FF8C00?style=for-the-badge)
+![SMOTE](https://img.shields.io/badge/⚖️_SMOTE-ff6600?style=for-the-badge)
+![Model Monitoring PSI](https://img.shields.io/badge/📉_PSI_Model_Monitoring-FF2200?style=for-the-badge)
+![AB Testing](https://img.shields.io/badge/🧪_A%2FB_Testing-ff4400?style=for-the-badge)
 
 </div>
 
@@ -249,17 +246,17 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=jayantvaibhavspj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=67e8f9&text_color=ffffff&ring_color=7c3aed"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jayantvaibhavspj&show_icons=true&hide_border=true&bg_color=0d0000&title_color=ff6600&icon_color=ff2200&text_color=ffaa00&ring_color=ff2200&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantvaibhavspj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff&langs_count=8"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayantvaibhavspj&layout=compact&hide_border=true&bg_color=0d0000&title_color=ff6600&text_color=ffaa00&langs_count=8"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayantvaibhavspj&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7c3aed&ring=c084fc&fire=FF6B6B&currStreakLabel=c084fc&sideLabels=67e8f9&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jayantvaibhavspj&hide_border=true&background=0D0000&stroke=ff2200&ring=ff6600&fire=FF2200&currStreakLabel=ff6600&sideLabels=ffaa00&dates=ff4400&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayantvaibhavspj&bg_color=0d1117&color=c084fc&line=7c3aed&point=67e8f9&area=true&hide_border=true&area_color=2d1b69)](https://github.com/jayantvaibhavspj)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayantvaibhavspj&bg_color=0d0000&color=ff6600&line=ff2200&point=ffaa00&area=true&hide_border=true&area_color=3d0000)](https://github.com/jayantvaibhavspj)
 
 </div>
 
@@ -269,49 +266,47 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 
 <div align="center">
 
-| 🎖️ Certification | 🏢 Issuer | 📅 Status |
-|-----------------|---------|---------|
+| 🎖️ Certification | 🏢 Issuer | ✅ Status |
+|:----------------|:-------:|:--------:|
 | ☁️ AWS Academy Cloud Foundations | Amazon Web Services | ✅ Nov 2024 |
 | 🔐 Google Cloud Cybersecurity | Google Cloud | ✅ Jan 2025 |
 | 📊 Google Cloud Data Analytics | Google Cloud | ✅ Valid till Dec 2027 |
-| 🤖 Generative AI with Gemini | Google | ✅ Completed |
-| 🔍 Document AI Skill Badge | Google Cloud | ✅ Completed |
-| 👁️ Visual Inspection AI | Google Cloud | ✅ Completed |
-| 🔁 CI/CD Pipelines on GCP | Google Cloud | ✅ Completed |
-| 💬 Prompt Design in Vertex AI | Google Cloud | ✅ Completed |
-| 📱 Android Development | Google | ✅ Completed |
-| 🏃 Agile Practices | — | ✅ Completed |
-| 🛡️ Cloud Security | — | ✅ Completed |
+| 🤖 Generative AI with Gemini | Google | ✅ Done |
+| 🔍 Document AI Skill Badge | Google Cloud | ✅ Done |
+| 👁️ Visual Inspection AI | Google Cloud | ✅ Done |
+| 🔁 CI/CD Pipelines on GCP | Google Cloud | ✅ Done |
+| 💬 Prompt Design in Vertex AI | Google Cloud | ✅ Done |
+| 📱 Android Development | Google | ✅ Done |
+| 🏃 Agile Practices | — | ✅ Done |
+| 🛡️ Cloud Security | — | ✅ Done |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏅 Honors & Achievements
+## 🏅 Achievements
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🥇  Winner — Innovation Challenge @ IIT BHU (2024)                ║
-║        National Level Competition                                    ║
-║                                                                      ║
-║   🎙️  Hackathon Organizer — Ace Hack 4.0                            ║
-║        Mentored 15+ teams | 250+ participants                        ║
-║        Rajasthan's Largest Student Hackathon                         ║
-║                                                                      ║
-║   🎓  Top 10 Academic Rank | 9.0 CGPA | Every Semester              ║
-║                                                                      ║
-║   📡  Professional Member — IEEE                                     ║
-║                                                                      ║
-║   🚀  Activity Lead — PRADYOG Club                                   ║
-║        10+ events managed | 40% engagement boost                     ║
-║                                                                      ║
-║   🏆  Participated in 8+ National Hackathons                         ║
-║                                                                      ║
-║   📺  YouTube Tech Blogger @apnavlogzone — 5k+ cumulative views      ║
-║                                                                      ║
+║  🥇  Winner — Innovation Challenge @ IIT BHU (2024)                 ║
+║       Cleared national-level competition against 100s of teams       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🎙️  Hackathon Organizer — Ace Hack 4.0                             ║
+║       Mentored 15+ teams | 250+ participants                         ║
+║       Rajasthan's Largest Student Hackathon                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🎓  Top 10 Academic Rank | CGPA: 9.0/10 | Every Single Semester    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📡  Professional Member — IEEE                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🚀  Activity Lead — PRADYOG Club                                    ║
+║       10+ events | 40% engagement boost                              ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🏆  Participated in 8+ National Level Hackathons                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  📺  YouTube Tech Blogger @apnavlogzone — 5,000+ cumulative views    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -324,23 +319,23 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 <div align="center">
 
 ```
-💡  Open to: ML Internships • AI Project Collabs • Hackathon Teams • Research
+🔥  Open to: ML Internships • AI Collabs • Hackathon Teams • Research
 ```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-vaibhav-282768249)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_together-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jayantvaibhavspj/)
-[![YouTube](https://img.shields.io/badge/YouTube-@apnavlogzone-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@apnavlogzone)
-[![Instagram](https://img.shields.io/badge/Instagram-@apnavlogzone-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apnavlogzone)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayantvaibhavspj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-FF2200?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayant-vaibhav-282768249)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Together-ff6600?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jayantvaibhavspj/)
+[![YouTube](https://img.shields.io/badge/YouTube-@apnavlogzone-FF2200?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@apnavlogzone)
+[![Instagram](https://img.shields.io/badge/Instagram-@apnavlogzone-ff6600?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apnavlogzone)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-FF2200?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayantvaibhavspj@gmail.com)
 
 <br/>
 
-> *📍 Based in Jaipur, Rajasthan — Building ML solutions that make real-world impact.*
+> *📍 Jaipur, Rajasthan — Building ML that makes real-world impact. 🔥*
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=130&section=footer&animation=fadeIn&text=Keep%20Building.%20Keep%20Learning.%20🚀&fontSize=22&fontColor=c084fc&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2200,40:3d0000,70:1a0000,100:000000&height=140&section=footer&animation=fadeIn&text=Keep%20Building.%20Keep%20Grinding.%20🔥&fontSize=24&fontColor=ff6600&fontAlignY=55"/>
