@@ -342,4 +342,4 @@ Deploy   ──►  AWS SageMaker Endpoint  |  Tiered auto-block + step-up auth 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:000000&height=130&section=footer&animation=fadeIn&text=Keep%20Building.%20Keep%20Learning.%20🚀&fontSize=22&fontColor=c084fc&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer&animation=fadeIn&text=Keep%20Building.%20Keep%20Learning.%20🚀&fontSize=24&fontColor=ffffff&fontAlignY=60&stroke=8b5cf6&strokeWidth=1"/>
