@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- Header: Black to Dark Red background, Purple/Cyan text -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,70:3d0000,100:5b0000&height=220&section=header&text=JAYANT%20VAIBHAV&fontSize=65&fontColor=c084fc&fontAlignY=35&desc=Data%20Science%20%E2%9A%A1%20ML%20Engineer%20%E2%9A%A1%20Cloud%20Practitioner&descColor=67e8f9&descAlignY=58&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=JAYANT%20VAIBHAV&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20⚡%20ML%20Engineer%20⚡%20Cloud%20Practitioner&descColor=00f5ff&descAlignY=60&animation=fadeIn&stroke=8b5cf6&strokeWidth=2"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=C084FC&center=true&vCenter=true&random=false&width=750&lines=🚀+ML+Engineer+%7C+Fraud+Detection+Expert;☁️+AWS+%26+GCP+Cloud+Practitioner;🏆+National+Hackathon+Winner+—+IIT+BHU+2024;🔥+Daily+LeetCode+Grinder+%7C+20+Day+Streak;🎓+B.Tech+AI+%26+ML+%7C+9.0+CGPA+%40+UEM+Jaipur)](https://git.io/typing-svg)
