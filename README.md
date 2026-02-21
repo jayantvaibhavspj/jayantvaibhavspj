@@ -1,3 +1,5 @@
+<img width="100%" src="banner.png"/>
+
 <div align="center">
 
 <!-- Header: Black to Dark Red background, Purple/Cyan text -->
